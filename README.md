@@ -3,7 +3,7 @@ A simple app for getting advice from the universe using [Advice API](https://api
 
 Made for Kottans front-end course.
 
-## Features:
+## Planned Features:
 1. Get random advice
 2. Get advice by ID
 3. Searching advice
