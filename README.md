@@ -7,6 +7,5 @@ Made for Kottans front-end course.
 1. Geting random advice
 2. Getting advice by ID
 3. Searching advice
-4. Creating your own advice
-5. Deleting your advice
-6. Editing your advice
+4. Generating advice from random id
+5. Sharing advice result in social media
